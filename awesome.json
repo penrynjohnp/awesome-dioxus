@@ -1,5 +1,16 @@
 [
     {
+        "name": "Dioxus UI",
+        "description": "Open-source component library for Dioxus, built with Rust.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "rust-ui",
+            "repo": "dioxus-ui"
+        },
+        "link": "https://dioxus.rust-ui.com"
+    },
+    {
         "name": "Kopuz",
         "description": "Kopuz is a modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection.",
         "type": "MadeWith",
