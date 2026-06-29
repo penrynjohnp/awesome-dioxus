@@ -1,5 +1,16 @@
 [
     {
+        "name": "OxDM",
+        "description": "A cross-platform desktop ONVIF IP camera manager — discovery, live video (MJPEG/RTSP), PTZ, imaging, events, and an ONVIF health check.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "smiti1642",
+            "repo": "oxdm"
+        },
+        "link": null
+    },
+    {
         "name": "Dioxus UI",
         "description": "Open-source component library for Dioxus, built with Rust.",
         "type": "Awesome",
