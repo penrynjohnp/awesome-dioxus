@@ -684,5 +684,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "OxDM",
+        "description": "A cross-platform desktop ONVIF IP camera manager — discovery, live video (MJPEG/RTSP), PTZ, imaging, events, and an ONVIF health check.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "smiti1642",
+            "repo": "oxdm"
+        },
+        "link": "https://github.com/smiti1642/oxdm"
     }
 ]
